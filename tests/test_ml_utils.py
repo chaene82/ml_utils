@@ -6,6 +6,7 @@
 import pytest
 
 
+from ml_utils import ml_utils
 from ml_utils.features import print_features_importances
 from sklearn.externals import joblib
 
